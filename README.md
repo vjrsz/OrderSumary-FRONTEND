@@ -4,7 +4,7 @@
 
 <div align="center">
     <h3>
-        <a href="https://junior2105.github.io/QRCode-FRONTEND/" target="_blank">Live</a>
+        <a href="https://junior2105.github.io/OrderSumary-FRONTEND/" target="_blank">Live</a>
         <span> | </span>
         <a href="" target="_blank">Solution</a>
         <span> | </span>
